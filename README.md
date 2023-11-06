@@ -1,4 +1,4 @@
-# The Poten)al of AI in Detec)ng Depression Using Social Media
+# The Potential of AI in Detecting Depression Using Social Media
 
 ![depression](https://github.com/Prajwaljayaramu/Depression-Stress-and-Anxiety-Prediction-Analysis-of-Twitter-data/assets/101072497/3fc87668-65f8-4eb9-96ba-d30031fe2bc5)
 
